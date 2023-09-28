@@ -1,4 +1,7 @@
 This is my recommender system project
+
+Built a personalized restaurant recommender system using the Yelp dataset, combining rating prediction, image-based food classification, and review sentiment prediction to provide tailored recommendations based on individual preferences.
+
 This is the food recommendation system:
 
 # To run the file
